@@ -12,5 +12,5 @@
 
   ![](img/注册界面.png)
 
-改编自[B站UP主](https://www.bilibili.com/video/BV1e4411W7Zg?t=30)的程序。
+改编自[B站UP主提姆浪](https://www.bilibili.com/video/BV1e4411W7Zg?t=30)的程序。
 
