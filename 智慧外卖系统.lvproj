@@ -10,6 +10,8 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
+		<Item Name="快捷购买.vi" Type="VI" URL="../快捷购买.vi"/>
+		<Item Name="快捷购买信息.vi" Type="VI" URL="../快捷购买信息.vi"/>
 		<Item Name="用户登录.vi" Type="VI" URL="../用户登录.vi"/>
 		<Item Name="用户读写.vi" Type="VI" URL="../用户读写.vi"/>
 		<Item Name="用户支付.vi" Type="VI" URL="../用户支付.vi"/>
